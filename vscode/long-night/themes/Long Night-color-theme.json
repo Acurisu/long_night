@@ -1819,6 +1819,7 @@
     "editorHoverWidget.background": "#252526",
     "editorHoverWidget.border": "#454545",
     "editorHoverWidget.foreground": "#cccccc",
+    "editorIndentGuide.activeBackground1": "#f07178",
     "editorInfo.background": "#4490BF00",
     "editorInfo.border": "#4490BF00",
     "editorInfo.foreground": "#75beff",
