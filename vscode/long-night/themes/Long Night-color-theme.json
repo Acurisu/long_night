@@ -4,7 +4,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#d0cfc8"
+      "foreground": "#b5d1b0"
     },
     "variable.constant": {
       "foreground": "#e9b08e"
@@ -701,7 +701,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#d0cfc8"
+        "foreground": "#f0d7a4"
       }
     },
     {
@@ -1775,8 +1775,8 @@
     "debugToolBar.background": "#333333",
     "debugToolBar.border": "#474747",
     "diffEditor.border": "#444444",
-    "diffEditor.insertedTextBackground": "#9bb95533",
-    "diffEditor.removedTextBackground": "#ff000033",
+    "diffEditor.insertedTextBackground": "#b5d1b030",
+    "diffEditor.removedTextBackground": "#f0717730",
     "dropdown.background": "#212121",
     "dropdown.border": "#373737",
     "dropdown.foreground": "#f1efec",
@@ -1847,15 +1847,15 @@
     "editorWidget.resizeBorder": "#5F5F5F",
     "focusBorder": "#ff5370",
     "foreground": "#f1efec",
-    "gitDecoration.addedResourceForeground": "#81b88b",
-    "gitDecoration.conflictingResourceForeground": "#6c6cc4",
-    "gitDecoration.deletedResourceForeground": "#c74e39",
-    "gitDecoration.ignoredResourceForeground": "#8c8c8c",
-    "gitDecoration.modifiedResourceForeground": "#e2c08d",
-    "gitDecoration.stageDeletedResourceForeground": "#c74e39",
-    "gitDecoration.stageModifiedResourceForeground": "#e2c08d",
+    "gitDecoration.addedResourceForeground": "#b5d1b0",
+    "gitDecoration.conflictingResourceForeground": "#d1b8d4",
+    "gitDecoration.deletedResourceForeground": "#f07178",
+    "gitDecoration.ignoredResourceForeground": "#d0cfc8",
+    "gitDecoration.modifiedResourceForeground": "#f0d7a4",
+    "gitDecoration.stageDeletedResourceForeground": "#f07178",
+    "gitDecoration.stageModifiedResourceForeground": "#f0d7a4",
     "gitDecoration.submoduleResourceForeground": "#8db9e2",
-    "gitDecoration.untrackedResourceForeground": "#73c991",
+    "gitDecoration.untrackedResourceForeground": "#b5d1b0",
     "icon.foreground": "#f1efec",
     "input.background": "#212121",
     "input.border": "#373737",
